@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1480370271 source:c:\users\balázs\desktop\programok\hazi\palya\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	<time.h>
+
+1480445237 source:c:\users\balázs\desktop\programok\hazi\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	<time.h>
+	"map.h"
+	"snake.h"
+
+1480444994 c:\users\balázs\desktop\programok\hazi\snake\map.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	<time.h>
+
+1480446452 source:c:\users\balázs\desktop\programok\hazi\snake\map.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	<time.h>
+	"map.h"
+
+1480445044 c:\users\balázs\desktop\programok\hazi\snake\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	<time.h>
+	"snake.h"
+
+1480447231 source:c:\users\balázs\desktop\programok\hazi\snake\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	<time.h>
+	"snake.h"
+	"map.h"
+
